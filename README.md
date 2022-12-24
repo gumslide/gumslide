@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @gumslide
+- 👀 I’m interested in HTML, CSS, and eventually Javascript
+- 🌱 I’m currently learning HTML
+- 💞️ I’m looking to collaborate on open-source, community oriented projects (once I feel confident with my skills)
+- 📫 How to reach me: gumslide@proton.me
+- 🌈 Find my artistic projects at @gumslide on Instagram :)
